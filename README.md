@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sinapirani GitHub stats](https://github-readme-stats.vercel.app/api?username=sinapirani&show_icons=true&theme=radical)
+![Sinapirani GitHub stats](https://github-readme-stats.vercel.app/api?username=sinapirani&show_icons=true&theme=radical)\
 ![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![npm](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![opengl](	https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
