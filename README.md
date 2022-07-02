@@ -1,7 +1,7 @@
-<div align='center'>
+
  ** **Hi there 👋
 im god of frontEND(ZART)
- </div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinapirani&layout=compact)](https://github.com/sinapirani)\
 ![Sinapirani GitHub stats](https://github-readme-stats.vercel.app/api?username=sinapirani&show_icons=true&theme=radical)\
